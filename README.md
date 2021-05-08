@@ -98,7 +98,7 @@ Name   | Link  | Descriptions
  Ericsson | https://www.ericsson.com/en |
  Nokia | |
  ZTE | https://www.zte.com.cn/china/about/magazine/zte-communications/2021/cn202101 |
- Cisco |  |
+ Cisco | https://www.cisco.com/c/en/us/index.html |
  Baidu | |
  Alibaba | |
  Tencent | |
