@@ -15,9 +15,9 @@ Name   | Link  | Descriptions
 
 
 ## Academic Conferences 学术会议
-涉及到具体技术点的挖掘和洞察的时候，可以重点考虑学术会议。除了关注会议文章之外，仍需要重点关注每届会议中的Key Speakers, Tutorial, Lecture,Demo等。
+___涉及到具体技术点的挖掘和洞察的时候，可以重点考虑学术会议。除了关注会议文章之外，仍需要重点关注每届会议中的Key Speakers, Tutorial, Lecture,Demo等。___
 
-For the deepdive into the specific techiques and detailed methods, academic conferences can be considered. Besides the published papers, we should also focus on the Key Speakers, Tutorial, Lecture, Demo, etc..
+___For the deepdive into the specific techiques and detailed methods, academic conferences can be considered. Besides the published papers, we should also focus on the Key Speakers, Tutorial, Lecture, Demo, etc..___
 
 ### Telecom  移动通信方面
 
@@ -77,8 +77,19 @@ Name   | Link  | Descriptions
  **ECML-PKDD** | https://ecmlpkdd2020.net/ |
 
 
-##### Exhibition & Forum 展会论坛
+##### Exhibition & Forum & Competition  展会论坛赛事
 
 
+
+Name   | Link  | Descriptions
+ ---- | ----- | ------  
+ **TMForum** | https://www.tmforum.org/ |
+ **MWC** | https://www.mwcbarcelona.com/
+ **GOPS 全球运维大会（深圳/上海）** | http://www.zxjhxh.bagevent.com/event/6168316 | 
+ **ZSM** | |
+**AIOPS Challenge ** | http://iops.ai/ | 
+** 天池智能运维大赛 ** | https://tianchi.aliyun.com/competition/entrance/231775/introduction |
+
+ 
 
 
