@@ -11,6 +11,14 @@ Conference papers and Journal papers will all be included in the Academic labrar
 * **Springer** https://link.springer.com/
 * **ACM** https://dl.acm.org/
 
+Name   | Link  | Descriptions
+ ---- | ----- | ------  
+ IEEE  | https://ieeexplore.ieee.org/Xplore/home.jsp | -
+sciencedirect  | https://www.sciencedirect.com/ | -
+Google Scholar  | https://scholar.google.com/ | -
+Springer |https://link.springer.com/ | - 
+ACM |https://dl.acm.org/ |-
+
 
 ## Academic Conferences 学术会议
 涉及到具体技术点的挖掘和洞察的时候，可以重点考虑学术会议。除了关注会议文章之外，仍需要重点关注每届会议中的Key Speakers, Tutorial, Lecture,Demo等。
@@ -59,7 +67,4 @@ For the deepdive into the specific techiques and detailed methods, academic conf
 
 
 
- 表头  | 表头  | 表头
- ---- | ----- | ------  
- 单元格内容  | 单元格内容 | 单元格内容 
- 单元格内容  | 单元格内容 | 单元格内容 
+
