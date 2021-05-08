@@ -113,4 +113,30 @@ Name   | Link  | Descriptions
   必示科技 | https://www.bizseer.com/ | 
 
 
+##  Standard Organization   标准组织
 
+
+Name   | Link  | Descriptions
+ ---- | ----- | ------  
+ 3GPP |https://www.3gpp.org/ |
+ ETSI | https://www.etsi.org/ |
+ ONAP | https://www.onap.org/ | 
+ TMF | https://www.tmforum.org/ | 
+ 
+ 
+ ## CSPs   标准组织
+ 
+ 
+ Name   | Link  | Descriptions
+ ---- | ----- | ------  
+ KDDI | https://www.kddi-research.jp/english |
+ 
+ 
+ ## Universities & Research Institute    高校研究组织
+ 
+Name   | Link  | Descriptions
+ ---- | ----- | ------  
+Netman lab,Tsinghua University | https://netman.aiops.org/publications/ |
+Shanghai Key Laboratory of Data Science, Fudan University |  http://www.se.fudan.edu.cn/ |
+
+ 
