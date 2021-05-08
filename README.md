@@ -77,9 +77,10 @@ Name   | Link  | Descriptions
  **ECML-PKDD** | https://ecmlpkdd2020.net/ |
 
 
-##### Exhibition & Forum & Competition  展会论坛赛事
+## Exhibition & Forum & Competition  展会论坛赛事
+___从相关展会论坛赛事中，可以工业界当前关注的热点问题。___
 
-
+___By observing the Exhibition, Forum and Competition, we can discover the current hot topic and widely discussed issues.___
 
 Name   | Link  | Descriptions
  ---- | ----- | ------  
@@ -88,7 +89,7 @@ Name   | Link  | Descriptions
  **GOPS 全球运维大会（深圳/上海）** | http://www.zxjhxh.bagevent.com/event/6168316 | 
  **ZSM** |  | 
  **AIOPS Challenge**  | http://iops.ai/ | 
- ** 天池智能运维大赛** | https://tianchi.aliyun.com/competition/entrance/231775/introduction |
+ **天池智能运维大赛** | https://tianchi.aliyun.com/competition/entrance/231775/introduction |
 
  
 
