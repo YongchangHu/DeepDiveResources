@@ -124,15 +124,14 @@ Name   | Link  | Descriptions
  TMF | https://www.tmforum.org/ | 
  
  
- ## CSPs   标准组织
- 
+ ## CSPs   通信设备商
  
  Name   | Link  | Descriptions
  ---- | ----- | ------  
  KDDI | https://www.kddi-research.jp/english |
  
  
- ## Universities & Research Institute    高校研究组织
+ ## Universities & Research Institute    高校&研究组织
  
 Name   | Link  | Descriptions
  ---- | ----- | ------  
