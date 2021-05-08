@@ -80,7 +80,7 @@ Name   | Link  | Descriptions
 ## Exhibition & Forum & Competition  展会论坛赛事
 ___从相关展会论坛赛事中，可以工业界当前关注的热点问题。___
 
-___By observing the Exhibition, Forum and Competition, we can discover the current hot topic and widely discussed issues.___
+___By observing the Exhibition, Forum and Competition, we can discover the current hot topics and widely discussed issues.___
 
 Name   | Link  | Descriptions
  ---- | ----- | ------  
