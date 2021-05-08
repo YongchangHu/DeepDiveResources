@@ -90,7 +90,7 @@ Name   | Link  | Descriptions
  **AIOPS Challenge**  | http://iops.ai/ | 
  **天池智能运维大赛** | https://tianchi.aliyun.com/competition/entrance/231775/introduction |
 
-## CSPs & Company & Consultancy  供应商/互联网公司/咨询公司
+##  IT/CT Company & Consultancy  电信/互联网公司/咨询公司
 
 
 Name   | Link  | Descriptions
@@ -107,5 +107,10 @@ Name   | Link  | Descriptions
   IBM | |
   Facebook | |
   AWS | |
+  Gartner| https://www.gartner.com/en | 
+  亚信|  https://www.asiainfo.com/zh_cn/index.html | 
+  擎创科技 | https://eoitek.com/  | 
+  必示科技 | https://www.bizseer.com/ | 
+
 
 
