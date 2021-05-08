@@ -1,4 +1,17 @@
 # DeepDiveResources 技术洞察资源
+
+## Academic Search Engine 学术搜索引擎
+会议文章和期刊文章皆会被收录在相关学术库中，通过搜索引擎搜索关键字可以得到找到相关文章。
+
+Conference papers and Journal papers will all be included in the Academic labraries. We can find papers of interest by searching the key words.
+
+* **IEEE** https://ieeexplore.ieee.org/Xplore/home.jsp
+* **sciencedirect**  https://www.sciencedirect.com/
+* **Google Scholar** https://scholar.google.com/
+* **Springer** https://link.springer.com/
+* **ACM** https://dl.acm.org/
+
+
 ## Academic Conferences 学术会议
 涉及到具体技术点的挖掘和洞察的时候，可以重点考虑学术会议。除了关注会议文章之外，仍需要重点关注每届会议中的Key Speakers, Tutorial, Lecture,Demo等。
 
