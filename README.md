@@ -1,9 +1,9 @@
 # DeepDiveResources 技术洞察资源
 
 ## Academic Search Engine 学术搜索引擎
-会议文章和期刊文章皆会被收录在相关学术库中，通过搜索引擎搜索关键字可以得到找到相关文章。
+___会议文章和期刊文章皆会被收录在相关学术库中，通过搜索引擎搜索关键字可以得到找到相关文章。___
 
-Conference papers and Journal papers will all be included in the Academic labraries. We can find papers of interest by searching the key words.
+___Conference papers and Journal papers will all be included in the Academic labraries. We can find papers of interest by searching the key words.___
 
 Name   | Link  | Descriptions
  ---- | ----- | ------  
