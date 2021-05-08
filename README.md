@@ -130,6 +130,7 @@ Name   | Link  | Descriptions
  ---- | ----- | ------  
  Chinamobile-CRMI | http://cmri.chinamobile.com/ |
  KDDI | https://www.kddi-research.jp/english |
+ ChinaTelecom|http://www.chinatelecom.com.cn/news/06/bps/|
  
  
  ## Universities & Research Institute    高校&研究组织
