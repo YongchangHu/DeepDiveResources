@@ -87,10 +87,25 @@ Name   | Link  | Descriptions
  **TMForum** | https://www.tmforum.org/ |
  **MWC** | https://www.mwcbarcelona.com/
  **GOPS 全球运维大会（深圳/上海）** | http://www.zxjhxh.bagevent.com/event/6168316 | 
- **ZSM** |  | 
  **AIOPS Challenge**  | http://iops.ai/ | 
  **天池智能运维大赛** | https://tianchi.aliyun.com/competition/entrance/231775/introduction |
 
- 
+## CSPs & Company & Consultancy  供应商/互联网公司/咨询公司
+
+
+Name   | Link  | Descriptions
+ ---- | ----- | ------  
+ Ericsson | https://www.ericsson.com/en |
+ Nokia | |
+ ZTE | https://www.zte.com.cn/china/about/magazine/zte-communications/2021/cn202101 |
+ Cisco |  |
+ Baidu | |
+ Alibaba | |
+ Tencent | |
+ ByteDance | | 
+ Google | |
+  IBM | |
+  Facebook | |
+  AWS | |
 
 
