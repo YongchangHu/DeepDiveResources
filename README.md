@@ -32,6 +32,10 @@ For the deepdive into the specific techiques and detailed methods, academic conf
 * **UbiCom** https://ubicomp.org/ubicomp2020/
 * **ISWC** https://iswc2020.semanticweb.org/
 
+### Network Operation & Management  网络运维
+* **NOMS** https://noms2020.ieee-noms.org/
+* **IM** https://im2019.ieee-im.org/
+* **AIOPS workshop** https://aiopsworkshop.github.io/
 ### DataBase  数据库
 * **VLDB** https://www.vldb.org/conference.html
 * **SIGMOD** https://sigmod.org/
