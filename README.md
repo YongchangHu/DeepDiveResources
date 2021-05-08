@@ -5,5 +5,6 @@
 For the deepdive into the specific techiques and detailed methods, academic conferences can be considered. Besides the published papers, we should also focus on the Key Speakers, Tutorial, Lecture, Demo, etc..
 
 ### Telecom field 移动通信方面
+* **SIGCOMM** https://conferences.sigcomm.org/sigcomm/2020/
 * **ACM SIGKDD Int. Conf. on Knowledge Discovery in Databases and Data Mining (KDD)**
 * **SIAM Data Mining Conf. (SDM)**
