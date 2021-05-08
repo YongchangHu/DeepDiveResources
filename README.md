@@ -86,9 +86,9 @@ Name   | Link  | Descriptions
  **TMForum** | https://www.tmforum.org/ |
  **MWC** | https://www.mwcbarcelona.com/
  **GOPS 全球运维大会（深圳/上海）** | http://www.zxjhxh.bagevent.com/event/6168316 | 
- **ZSM** | |
-**AIOPS Challenge ** | http://iops.ai/ | 
-** 天池智能运维大赛 ** | https://tianchi.aliyun.com/competition/entrance/231775/introduction |
+ **ZSM** |  | 
+ **AIOPS Challenge**  | http://iops.ai/ | 
+ ** 天池智能运维大赛** | https://tianchi.aliyun.com/competition/entrance/231775/introduction |
 
  
 
