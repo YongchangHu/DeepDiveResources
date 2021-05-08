@@ -4,7 +4,37 @@
 
 For the deepdive into the specific techiques and detailed methods, academic conferences can be considered. Besides the published papers, we should also focus on the Key Speakers, Tutorial, Lecture, Demo, etc..
 
-### Telecom field 移动通信方面
+### Telecom  移动通信方面
 * **SIGCOMM** https://conferences.sigcomm.org/sigcomm/2020/
-* **ACM SIGKDD Int. Conf. on Knowledge Discovery in Databases and Data Mining (KDD)**
-* **SIAM Data Mining Conf. (SDM)**
+* **Globecom** https://globecom2020.ieee-globecom.org/
+* **ICC** https://icc2020.ieee-icc.org/
+* **MobiSys** https://icc2020.ieee-icc.org/
+* **MobiCom** https://www.sigmobile.org/mobicom/2020/
+
+### Computer Network  计算级网络
+* **NSDI** https://www.usenix.org/conference/nsdi20
+* **CoNEXT** https://conferences2.sigcomm.org/co-next/2020/
+* **WWW** https://dl.acm.org/conference/www
+* **INFOCOM** https://infocom2020.ieee-infocom.org/
+* **UbiCom** https://ubicomp.org/ubicomp2020/
+* **ISWC** https://iswc2020.semanticweb.org/
+
+### DataBase  数据库
+* **VLDB** https://www.vldb.org/conference.html
+* **SIGMOD** https://sigmod.org/
+* **ICDE** http://tab.computer.org/tcde/icde_conf.html
+
+### AI/ Big Data  人工智能大数据
+* **KDD** https://www.kdd.org/
+* **ICML** https://icml.cc/
+* **AAAI** https://aaai.org/
+* **NIPS** https://nips.cc/
+* **ICLR** https://iclr.cc/
+* **IJCAI** https://www.ijcai.org/
+* **SDM** https://www.siam.org/conferences/cm/conference/sdm20
+* **ICDM** http://icdm2020.bigke.org/
+* **WSDM** https://www.wsdm-conference.org/2020/
+* **PAKDD** https://www.pakdd2021.org/
+* **ECML-PKDD** https://ecmlpkdd2020.net/
+
+
