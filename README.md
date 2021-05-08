@@ -5,12 +5,8 @@
 
 Conference papers and Journal papers will all be included in the Academic labraries. We can find papers of interest by searching the key words.
 
-* **IEEE** https://ieeexplore.ieee.org/Xplore/home.jsp
-* **sciencedirect**  https://www.sciencedirect.com/
-* **Google Scholar** https://scholar.google.com/
-* **Springer** https://link.springer.com/
-* **ACM** https://dl.acm.org/
-
+Name
+---- | ----- | ------  
 Name   | Link  | Descriptions
  ---- | ----- | ------  
  IEEE  | https://ieeexplore.ieee.org/Xplore/home.jsp | -
