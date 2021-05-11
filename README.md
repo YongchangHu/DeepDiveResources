@@ -105,6 +105,7 @@ Name   | Link  | Descriptions
  Nokia 6G project Hexa-X | https://hexa-x.eu/   https://www.nokia.com/about-us/news/releases/2020/12/07/nokia-to-lead-the-eus-6g-project-hexa-x/ | 
  ZTE | https://www.zte.com.cn/china/about/magazine/zte-communications/2021/cn202101 |
  Cisco | https://www.cisco.com/c/en/us/index.html |
+ Samsung| https://research.samsung.com/next-generation-communications|
  Baidu | |
  Alibaba | |
  Tencent | |
