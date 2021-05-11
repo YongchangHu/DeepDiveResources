@@ -27,7 +27,7 @@ Name   | Link  | Descriptions
  **Globecom**  | https://globecom2020.ieee-globecom.org/ | -
  **ICC**  | https://icc2020.ieee-icc.org/ | -
 **SIGCOMM**  | https://conferences.sigcomm.org/sigcomm/2020/ | 
-**Globecom** |  https://globecom2020.ieee-globecom.org/ | 
+**Globecom** |  https://globecom2020.ieee-globecom.org/   https://globecom2020.ieee-globecom.org/program/6g-summit| 
 **ICC** | https://icc2020.ieee-icc.org/ | 
 **MobiSys**  | https://icc2020.ieee-icc.org/ | 
 **MobiCom** |  https://www.sigmobile.org/mobicom/2020/ | 
@@ -146,5 +146,6 @@ Name   | Link  | Descriptions
 Netman lab,Tsinghua University | https://netman.aiops.org/publications/ |
 Shanghai Key Laboratory of Data Science, Fudan University |  http://www.se.fudan.edu.cn/ |
 CAICT |http://www.caict.ac.cn/kxyj/ |
+日本 NICT |https://www2.nict.go.jp/idi/en/#whitepaper  |
 
  
