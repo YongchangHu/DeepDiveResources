@@ -76,6 +76,11 @@ Name   | Link  | Descriptions
  **PAKDD** | https://www.pakdd2021.org/ |
  **ECML-PKDD** | https://ecmlpkdd2020.net/ |
 
+### 6G 峰会   6G Summit
+
+Name   | Link  | Descriptions
+ ---- | ----- | ------  
+ **6G Summit** | https://www.6gsummit.com/| 
 
 ## Exhibition & Forum & Competition  展会论坛赛事
 ___从相关展会论坛赛事中，可以工业界当前关注的热点问题。___
@@ -89,6 +94,7 @@ Name   | Link  | Descriptions
  **GOPS 全球运维大会（深圳/上海）** | http://www.zxjhxh.bagevent.com/event/6168316 | 
  **AIOPS Challenge**  | http://iops.ai/ | 
  **天池智能运维大赛** | https://tianchi.aliyun.com/competition/entrance/231775/introduction |
+
 
 ##  IT/CT Company & Consultancy  电信/互联网公司/咨询公司
 
